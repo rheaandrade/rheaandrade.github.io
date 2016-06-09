@@ -1,0 +1,36 @@
+.container1
+{
+	background-color: black;
+}
+
+body 
+{
+    margin-bottom: 80px;
+}
+
+.page-header 
+{
+   margin-top: 0;
+}
+
+.panel-body 
+{
+    padding-top: 0;
+}
+
+.featureImg
+{
+    margin-bottom: 15px;
+}
+    
+.jumbotron 
+{
+    background-image: url("http://www.planwallpaper.com/static/images/colorful-triangles-background_yB0qTG6.jpg") ;
+}
+
+.port 
+{
+    font-size: 30px;
+    line-height: 125%;
+    color: #008080 
+}
